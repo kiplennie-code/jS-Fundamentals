@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> c443dfc (Add script that prints 3 lines)
+>>>>>>> 2a75a20 (Add script that prints the first argument or 'No argument')
 // Declare variables using let
 let line1 = "C is fun";
 let line2 = "Python is cool";
